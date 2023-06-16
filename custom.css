@@ -1,0 +1,21 @@
+.category-count {
+    position: absolute !important;
+}
+
+.grid-list-switcher {
+    float: right !important;
+}
+
+.actionBar-section {
+    display: none !important;
+}
+
+@media (min-width: 801px) {
+.navPages-container {
+        display: none !important;
+    }
+}
+
+.header {
+    border-bottom: 1px solid #ccc !important;
+}
